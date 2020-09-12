@@ -1,0 +1,2 @@
+# DiscordNetCoreBotSkeleton
+Esqueleto do projeto

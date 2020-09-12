@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs/DiscordNetCoreBotSkeleton
+/src/App/obj
+/src/App/.vs/DiscordNetCoreBotSkeleton/v16
+/src/App/bin/Debug/netcoreapp3.1
+/src/CrossCutting/bin/Debug/netstandard2.0
+/src/CrossCutting/obj
